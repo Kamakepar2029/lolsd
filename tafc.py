@@ -197,7 +197,7 @@ while True:
           
         # Показать изображение
 
-        cv2.imshow('Ant Panel', image)
+        cv2.imshow('AIMFinder Cam', image)
 
           
         key = cv2.waitKey(30)
